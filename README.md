@@ -6,9 +6,10 @@
 This task will be for a duration of 1 week, starting from Wednesday 18th Aug. 2021 to 26th Aug. 2021.
 
 ## Instructions
-Make a fork of the repository
-Set up your preferred tools for the React Native project
-Make all commits to your fork repo. Upon completion of the test, send your repo URL to hello@wigxel.io
+> PS: Please don't fork this repository. Create a public repo under your account with the same name, after cloning this repo.  
+
+Set up your preferred tools for the React Native project.
+Make all commits to your repo. Upon completion of the test, send your repo URL to hello@wigxel.io.
 
 ## Task
 Using the Figma link below, build the design and it's interaction to the best of your knowledge using the best code practices and coding style.
